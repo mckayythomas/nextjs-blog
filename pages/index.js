@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
         <p>
           Hello, I'm McKay Thomas. This is a test to see if preview works for
           new branches. If you can read this, you are not in the main branch,
-          and preview is working.
+          and preview is working. Congratulations!!!
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
