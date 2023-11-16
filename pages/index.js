@@ -21,9 +21,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm McKay Thomas. This is a test to see if preview works for
-          new branches. If you can read this, you are not in the main branch,
-          and preview is working.
+          Hello, I'm McKay Thomas. I am a software developer and I love Web
+          Development! This is my first Next.JS App.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
